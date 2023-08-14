@@ -5,4 +5,6 @@ Using this application employee or any person make an order of there lunch any o
 ![srs](https://github.com/nishattasnim337/Calculator-Menu-Manual-Testing-with-Jira/assets/47314975/d6c8fb78-d8de-4231-9db4-472aa7473b4a)
 ## Application
 ![calculator_menu](https://github.com/nishattasnim337/Calculator-Menu-Manual-Testing-with-Jira/assets/47314975/89e1d305-c721-4f0f-b1f0-abb7e3ad8823)
+## Figue of Bug Report in Jira
+![figure](https://github.com/nishattasnim337/Calculator-Menu-Manual-Testing-with-Jira/assets/47314975/61dbcef8-0749-44ac-9bb8-53618d9cbf7b)
 
